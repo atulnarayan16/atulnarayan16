@@ -23,10 +23,6 @@
   <img align="left" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />
 </a>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=pranav2442&label=Profile%20views&color=0e75b6&style=flat" alt="pranav2442" /> 
-
-</p>
-<img align="right" alt="GIF" src="https://imgur.com/8dAcTUW.gif" width="500" height="320" />
 
 - 🎓 I'm Currently studying Computer Science Engineering at ITER, Siksha 'O' Anusandhan University (2020-2024)
 
