@@ -21,7 +21,7 @@
 
 <a href="https://www.youtube.com/channel/UCuRQT-l7_L9vDH6xXHmaqtQ">
   <img align="left" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />
-</a>
+</a><br>
 
 
 - 🎓 I'm Currently studying Computer Science Engineering at ITER, Siksha 'O' Anusandhan University (2020-2024)
