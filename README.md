@@ -21,7 +21,9 @@
 
 <a href="https://www.youtube.com/channel/UCuRQT-l7_L9vDH6xXHmaqtQ">
   <img align="left" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />
-</a><br>
+</a>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=atulnarayan16&label=Profile%20views&color=f98600&style=flat" alt="atulnarayan" />  
+<br>
 
 
 - 🎓 I'm Currently studying Computer Science Engineering at ITER, Siksha 'O' Anusandhan University (2020-2024)
